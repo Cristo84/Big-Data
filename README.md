@@ -1,2 +1,2 @@
 # Big-Data
-a course that goes throught the basics of machine learning
+A course that goes through the basics of machine learning
